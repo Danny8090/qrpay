@@ -50,7 +50,7 @@
 ③此功能免费使用
 
 9.PayPal怎么提取用户名？
-https://www.paypal.me/insoxin 链接中的insoxin就是您的用户名
+https://paypal.me/goufaner 链接中的goufaner就是您的用户名
 
 10.模板更新
 ①目前可使用40个模板(2019.04.04)
@@ -63,4 +63,4 @@ GitHub：https://github.com/insoxin/qrpay/
 
 本站托管在腾讯COS中！立即赞助
 
-部分特殊二维码若识别不出,请到https://cli.im/deqr 识别后复制过来继续
+部分特殊二维码若识别不出,请到https://cli.im/deqr 或者 http://tool.oschina.net/qr?type=2 识别后复制过来继续
